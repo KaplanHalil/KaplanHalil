@@ -28,7 +28,7 @@ verification of security protocols with the Tamarin prover.
 | [dif_attack_demo](https://github.com/KaplanHalil/dif_attack_demo) | Differential cryptanalysis demo using toy ciphers |
 | [Tamarin](https://github.com/KaplanHalil/Tamarin) | Security protocol analysis with the Tamarin prover: examples, notes and formal MKA verification |
 | [RAG_crypto](https://github.com/KaplanHalil/RAG_crypto) | Retrieval-augmented generation applied to cryptography research |
-| [BAHTIYAR](https://github.com/KaplanHalil/BAHTIYAR) | Stock-market analysis and backtesting toolkit (Turkish markets) |
+
 
 ## Talks & writing
 
