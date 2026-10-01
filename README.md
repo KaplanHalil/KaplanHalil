@@ -48,4 +48,4 @@ verification of security protocols with the Tamarin prover.
 ## Contact
 
 - GitHub: [KaplanHalil](https://github.com/KaplanHalil)
-- Email: [4.halilkaplan@gmail.com](mailto:4.halilkaplan@gmail.com)
+- Email: [4.halilkaplan@gmail.com](mailto:4.halilkaplan@gmail.com) , [halil.kaplan@tubitak.gov.tr](mailto:halil.kaplan@tubitak.gov.tr) 
