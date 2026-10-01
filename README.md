@@ -16,7 +16,6 @@ verification of security protocols with the Tamarin prover.
 - MILP / SAT-based modeling of algebraic and structural attacks
 - S-box design, testing, and differential / linear properties
 - Formal verification of security protocols (Tamarin prover)
-- MACsec / IEEE 802.1X MKA, ECDH key establishment
 
 ## Selected repositories
 
@@ -25,7 +24,6 @@ verification of security protocols with the Tamarin prover.
 | [BlockCipherImplementations](https://github.com/KaplanHalil/BlockCipherImplementations) | Implementation of block ciphers in Python |
 | [Crypto_tools](https://github.com/KaplanHalil/Crypto_tools) | Small tools for cryptanalysis |
 | [Milp](https://github.com/KaplanHalil/Milp) | MILP modelings for cryptanalysis of block ciphers |
-| [SboxTest](https://github.com/KaplanHalil/SboxTest) | S-box properties and testing |
 | [dif_attack_demo](https://github.com/KaplanHalil/dif_attack_demo) | Differential cryptanalysis demo using toy ciphers |
 | [ModesOfOperations](https://github.com/KaplanHalil/ModesOfOperations) | Encryption modes of operation |
 | [Tamarin](https://github.com/KaplanHalil/Tamarin) | Security protocol verification with the Tamarin prover |
