@@ -5,10 +5,9 @@ ciphers, MILP-based attack modeling, S-box design and testing, and the formal
 verification of security protocols with the Tamarin prover.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
-[![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge)](https://github.com/KaplanHalil/Crypto_tools)
+[![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge)](https://iacr.org/)
 [![Formal Verification](https://img.shields.io/badge/Formal%20Verification-4B2E83?style=for-the-badge)](https://tamarin-prover.com/)
-[![TUBITAK](https://img.shields.io/badge/TUBITAK-003399?style=for-the-badge)](https://www.tubitak.gov.tr/)
+[![TUBITAK BILGEM](https://img.shields.io/badge/TUBITAK%20BILGEM-003399?style=for-the-badge)](https://bilgem.tubitak.gov.tr/)
 
 ## Research interests
 
