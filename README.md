@@ -26,8 +26,7 @@ verification of security protocols with the Tamarin prover.
 | [Milp](https://github.com/KaplanHalil/Milp) | MILP modelings for cryptanalysis of block ciphers |
 | [ModularAddition](https://github.com/KaplanHalil/ModularAddition) | Differential and linear analysis of modular addition (DDT/LAT) |
 | [dif_attack_demo](https://github.com/KaplanHalil/dif_attack_demo) | Differential cryptanalysis demo using toy ciphers |
-| [MKA_tamarin](https://github.com/KaplanHalil/MKA_tamarin) | Formal verification of MACsec Key Agreement with the Tamarin prover |
-| [Tamarin](https://github.com/KaplanHalil/Tamarin) | Security protocol analysis with the Tamarin prover: examples and notes |
+| [Tamarin](https://github.com/KaplanHalil/Tamarin) | Security protocol analysis with the Tamarin prover: examples, notes and formal MKA verification |
 | [RAG_crypto](https://github.com/KaplanHalil/RAG_crypto) | Retrieval-augmented generation applied to cryptography research |
 | [BAHTIYAR](https://github.com/KaplanHalil/BAHTIYAR) | Stock-market analysis and backtesting toolkit (Turkish markets) |
 
