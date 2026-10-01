@@ -18,11 +18,6 @@ verification of security protocols with the Tamarin prover.
 - Formal verification of security protocols (Tamarin prover)
 - MACsec / IEEE 802.1X MKA, ECDH key establishment
 
-## GitHub stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaplanHalil&show_icons=true&theme=github_dark_dimmed&count_private=false)](https://github.com/KaplanHalil)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaplanHalil&layout=compact&theme=github_dark_dimmed)](https://github.com/KaplanHalil)
-
 ## Selected repositories
 
 | Repository | Description |
