@@ -22,28 +22,17 @@ verification of security protocols with the Tamarin prover.
 | Repository | Description |
 |---|---|
 | [BlockCipherImplementations](https://github.com/KaplanHalil/BlockCipherImplementations) | Implementation of block ciphers in Python |
-| [Crypto_tools](https://github.com/KaplanHalil/Crypto_tools) | Small tools for cryptanalysis |
 | [Milp](https://github.com/KaplanHalil/Milp) | MILP modelings for cryptanalysis of block ciphers |
 | [dif_attack_demo](https://github.com/KaplanHalil/dif_attack_demo) | Differential cryptanalysis demo using toy ciphers |
 | [ModesOfOperations](https://github.com/KaplanHalil/ModesOfOperations) | Encryption modes of operation |
 | [Tamarin](https://github.com/KaplanHalil/Tamarin) | Security protocol verification with the Tamarin prover |
 | [MKA_tamarin](https://github.com/KaplanHalil/MKA_tamarin) | Formal analysis of MACsec Key Agreement |
-| [isc_mka](https://github.com/KaplanHalil/isc_mka) | MACsec / IEEE 802.1X MKA |
-| [ECDH](https://github.com/KaplanHalil/ECDH) | Elliptic Curve Diffie-Hellman |
 | [ModularAddition](https://github.com/KaplanHalil/ModularAddition) | Modular addition for cryptographic primitives |
 | [AvalCorrTests](https://github.com/KaplanHalil/AvalCorrTests) | Avalanche and correlation tests for S-boxes |
-| [BAHTIYAR](https://github.com/KaplanHalil/BAHTIYAR) | Python research project |
 | [RAG_crypto](https://github.com/KaplanHalil/RAG_crypto) | RAG applied to cryptography |
-| [VerifPal](https://github.com/KaplanHalil/VerifPal) | Verification tooling |
-| [Finance](https://github.com/KaplanHalil/Finance) | Finance tooling |
-
-## Talks & writing
-
-| Repository | Description |
-|---|---|
 | [Presentations](https://github.com/KaplanHalil/Presentations) | Talks given at TUBITAK on cryptography topics |
-| [Tamarin-article](https://github.com/KaplanHalil/Tamarin-article) | Article material on Tamarin-based verification |
-| [Articles](https://github.com/KaplanHalil/Articles) | Research articles collection |
+
+
 
 ## Contact
 
