@@ -16,25 +16,30 @@ verification of security protocols with the Tamarin prover.
 - MILP / SAT-based modeling of algebraic and structural attacks
 - S-box design, testing, and differential / linear properties
 - Formal verification of security protocols (Tamarin prover)
+- MACsec / IEEE 802.1X MKA, ECDH key establishment
 
 ## Selected repositories
 
 | Repository | Description |
 |---|---|
-| [BlockCipherImplementations](https://github.com/KaplanHalil/BlockCipherImplementations) | Implementation of block ciphers in Python |
+| [BlockCipherImplementations](https://github.com/KaplanHalil/BlockCipherImplementations) | Block ciphers, encryption modes, ECDH/ECDSA and cryptanalytic tools |
+| [BlockCipherTestTool](https://github.com/KaplanHalil/BlockCipherTestTool) | Automated testing: S-box, avalanche, correlation, interpolation and solver benchmarks |
 | [Milp](https://github.com/KaplanHalil/Milp) | MILP modelings for cryptanalysis of block ciphers |
+| [ModularAddition](https://github.com/KaplanHalil/ModularAddition) | Differential and linear analysis of modular addition (DDT/LAT) |
 | [dif_attack_demo](https://github.com/KaplanHalil/dif_attack_demo) | Differential cryptanalysis demo using toy ciphers |
-| [ModesOfOperations](https://github.com/KaplanHalil/ModesOfOperations) | Encryption modes of operation |
-| [Tamarin](https://github.com/KaplanHalil/Tamarin) | Security protocol verification with the Tamarin prover |
-| [MKA_tamarin](https://github.com/KaplanHalil/MKA_tamarin) | Formal analysis of MACsec Key Agreement |
-| [ModularAddition](https://github.com/KaplanHalil/ModularAddition) | Modular addition for cryptographic primitives |
-| [AvalCorrTests](https://github.com/KaplanHalil/AvalCorrTests) | Avalanche and correlation tests for S-boxes |
-| [RAG_crypto](https://github.com/KaplanHalil/RAG_crypto) | RAG applied to cryptography |
-| [Presentations](https://github.com/KaplanHalil/Presentations) | Talks given at TUBITAK on cryptography topics |
+| [MKA_tamarin](https://github.com/KaplanHalil/MKA_tamarin) | Formal verification of MACsec Key Agreement with the Tamarin prover |
+| [Tamarin](https://github.com/KaplanHalil/Tamarin) | Security protocol analysis with the Tamarin prover: examples and notes |
+| [RAG_crypto](https://github.com/KaplanHalil/RAG_crypto) | Retrieval-augmented generation applied to cryptography research |
+| [BAHTIYAR](https://github.com/KaplanHalil/BAHTIYAR) | Stock-market analysis and backtesting toolkit (Turkish markets) |
 
+## Talks & writing
 
+| Repository | Description |
+|---|---|
+| [Presentations](https://github.com/KaplanHalil/Presentations) | Talks on cryptography topics given at TUBITAK |
+| [Articles](https://github.com/KaplanHalil/Articles) | Research articles and LaTeX sources |
 
 ## Contact
 
 - GitHub: [KaplanHalil](https://github.com/KaplanHalil)
-- Email: [4.halilkaplan@gmail.com](mailto:4.halilkaplan@gmail.com) , [halil.kaplan@tubitak.gov.tr](mailto:halil.kaplan@tubitak.gov.tr) 
+- Email: [4.halilkaplan@gmail.com](mailto:4.halilkaplan@gmail.com)
