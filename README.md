@@ -16,7 +16,6 @@ verification of security protocols with the Tamarin prover.
 - MILP / SAT-based modeling of algebraic and structural attacks
 - S-box design, testing, and differential / linear properties
 - Formal verification of security protocols (Tamarin prover)
-- MACsec / IEEE 802.1X MKA, ECDH key establishment
 
 ## Selected repositories
 
@@ -42,4 +41,4 @@ verification of security protocols with the Tamarin prover.
 ## Contact
 
 - GitHub: [KaplanHalil](https://github.com/KaplanHalil)
-- Email: [4.halilkaplan@gmail.com](mailto:4.halilkaplan@gmail.com)
+- Email: [4.halilkaplan@gmail.com](mailto:4.halilkaplan@gmail.com) , [halil.kaplan@tubitak.gov.tr](mailto:halil.kaplan@tubitak.gov.tr)
