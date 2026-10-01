@@ -6,6 +6,7 @@ verification of security protocols with the Tamarin prover.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge)](https://iacr.org/)
+[![MILP](https://img.shields.io/badge/MILP-008000?style=for-the-badge)](https://eprint.iacr.org/2026/224)
 [![Formal Verification](https://img.shields.io/badge/Formal%20Verification-4B2E83?style=for-the-badge)](https://tamarin-prover.com/)
 [![TUBITAK BILGEM](https://img.shields.io/badge/TUBITAK%20BILGEM-003399?style=for-the-badge)](https://bilgem.tubitak.gov.tr/)
 
