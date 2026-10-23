@@ -7,11 +7,7 @@ local-first tools for the Omarchy Linux desktop.
 
 <p>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></a>
-  <a href="https://qt.io/"><img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QML"></a>
   <a href="https://omarchy.org/"><img src="https://img.shields.io/badge/Omarchy-1A1B26?style=for-the-badge" alt="Omarchy"></a>
-  <a href="https://quickshell.org/"><img src="https://img.shields.io/badge/Quickshell-7AA2F7?style=for-the-badge" alt="Quickshell"></a>
-  <a href="https://hypr.land/"><img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge" alt="Hyprland"></a>
   <a href="https://iacr.org/"><img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge" alt="Cryptography"></a>
   <a href="https://eprint.iacr.org/2026/224"><img src="https://img.shields.io/badge/MILP-008000?style=for-the-badge" alt="MILP"></a>
   <a href="https://tamarin-prover.com/"><img src="https://img.shields.io/badge/Tamarin-4B2E83?style=for-the-badge" alt="Tamarin"></a>
