@@ -16,6 +16,33 @@ local-first tools for the Omarchy Linux desktop.
 
 ---
 
+
+## Research interests
+
+- Cryptanalysis of block ciphers
+- MILP / SAT-based modeling of algebraic and structural attacks
+- S-box design, testing, and differential / linear properties
+- Formal verification of security protocols (Tamarin prover)
+
+## Cryptography & research
+
+| Repository | Description |
+|---|---|
+| [BlockCipherImplementations](https://github.com/KaplanHalil/BlockCipherImplementations) | Block ciphers, encryption modes, ECDH/ECDSA and cryptanalytic tools |
+| [BlockCipherTestTool](https://github.com/KaplanHalil/BlockCipherTestTool) | Automated testing: S-box, avalanche, correlation, interpolation and solver benchmarks |
+| [Milp](https://github.com/KaplanHalil/Milp) | MILP modeling for cryptanalysis of block ciphers |
+| [ModularAddition](https://github.com/KaplanHalil/ModularAddition) | Differential and linear analysis of modular addition (DDT/LAT) |
+| [dif_attack_demo](https://github.com/KaplanHalil/dif_attack_demo) | Differential cryptanalysis demo using toy ciphers |
+| [Tamarin](https://github.com/KaplanHalil/Tamarin) | Security protocol analysis with the Tamarin prover: examples, notes and formal MKA verification |
+| [chirag](https://github.com/KaplanHalil/chirag) | Retrieval-augmented generation applied to cryptography research |
+
+## Talks & writing
+
+| Repository | Description |
+|---|---|
+| [Presentations](https://github.com/KaplanHalil/Presentations) | Talks on cryptography topics given at TUBITAK |
+| [Articles](https://github.com/KaplanHalil/Articles) | Research articles and LaTeX sources |
+
 ## Omarchy & desktop
 
 Native [Quickshell](https://quickshell.org/) widgets and local-first tools for
@@ -55,31 +82,6 @@ Native [Quickshell](https://quickshell.org/) widgets and local-first tools for
 Also: [dotfiles](https://github.com/KaplanHalil/dotfiles) — my Omarchy/Hyprland
 configuration backup.
 
-## Research interests
-
-- Cryptanalysis of block ciphers
-- MILP / SAT-based modeling of algebraic and structural attacks
-- S-box design, testing, and differential / linear properties
-- Formal verification of security protocols (Tamarin prover)
-
-## Cryptography & research
-
-| Repository | Description |
-|---|---|
-| [BlockCipherImplementations](https://github.com/KaplanHalil/BlockCipherImplementations) | Block ciphers, encryption modes, ECDH/ECDSA and cryptanalytic tools |
-| [BlockCipherTestTool](https://github.com/KaplanHalil/BlockCipherTestTool) | Automated testing: S-box, avalanche, correlation, interpolation and solver benchmarks |
-| [Milp](https://github.com/KaplanHalil/Milp) | MILP modeling for cryptanalysis of block ciphers |
-| [ModularAddition](https://github.com/KaplanHalil/ModularAddition) | Differential and linear analysis of modular addition (DDT/LAT) |
-| [dif_attack_demo](https://github.com/KaplanHalil/dif_attack_demo) | Differential cryptanalysis demo using toy ciphers |
-| [Tamarin](https://github.com/KaplanHalil/Tamarin) | Security protocol analysis with the Tamarin prover: examples, notes and formal MKA verification |
-| [chirag](https://github.com/KaplanHalil/chirag) | Retrieval-augmented generation applied to cryptography research |
-
-## Talks & writing
-
-| Repository | Description |
-|---|---|
-| [Presentations](https://github.com/KaplanHalil/Presentations) | Talks on cryptography topics given at TUBITAK |
-| [Articles](https://github.com/KaplanHalil/Articles) | Research articles and LaTeX sources |
 
 ## Contact
 
