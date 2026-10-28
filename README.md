@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halil Kaplan
+# Halil İbrahim Kaplan
 
 **Cryptography researcher · TÜBİTAK BİLGEM · Gebze, Türkiye**
 
