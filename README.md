@@ -13,6 +13,20 @@
   <a href="https://bilgem.tubitak.gov.tr/"><img src="https://img.shields.io/badge/T%C3%9CB%C4%B0TAK%20B%C4%B0LGEM-003399?style=for-the-badge" alt="TÜBİTAK BİLGEM"></a>
 </p>
 
+<table>
+  <tr>
+    <td align="center" width="54">
+      <a href="https://scholar.google.com/citations?user=Is_dVToAAAAJ&hl=en">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="34" alt="Google Scholar">
+      </a>
+    </td>
+    <td align="left">
+      <strong><a href="https://scholar.google.com/citations?user=Is_dVToAAAAJ&hl=en">Google Scholar</a></strong><br>
+      <sub>Publications and citation profile</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 I study the security of symmetric primitives: cryptanalysis of block ciphers,
@@ -20,27 +34,6 @@ MILP / SAT-based modeling of algebraic and structural attacks, S-box design and
 testing, and formal verification of security protocols with the Tamarin prover.
 Outside the lab I build local-first tools for the
 [Omarchy](https://omarchy.org/) Linux desktop — no telemetry, no accounts.
-
-## Publications
-
-**Usage of Mixed Integer Linear Programming in Cryptanalysis of Block Ciphers**\
-Halil İbrahim Kaplan · *IACR Cryptology ePrint Archive, 2026/224* · 2026\
-[PDF](https://eprint.iacr.org/2026/224.pdf) · [ePrint](https://eprint.iacr.org/2026/224)
-
-<details>
-<summary>BibTeX</summary>
-
-```bibtex
-@misc{cryptoeprint:2026/224,
-      author = {Halil İbrahim Kaplan},
-      title = {Usage of Mixed Integer Linear Programming in Cryptanalysis of Block Ciphers},
-      howpublished = {Cryptology {ePrint} Archive, Paper 2026/224},
-      year = {2026},
-      url = {https://eprint.iacr.org/2026/224}
-}
-```
-
-</details>
 
 ## Cryptography & research
 
