@@ -2,7 +2,7 @@
 
 # Halil İbrahim Kaplan
 
-**Cryptography researcher · TÜBİTAK BİLGEM · Gebze, Türkiye**
+**Cryptography researcher · TÜBİTAK BİLGEM **
 
 <p>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
