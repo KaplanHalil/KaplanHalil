@@ -48,10 +48,10 @@ Halil İbrahim Kaplan · *IACR Cryptology ePrint Archive, 2026/224* · 2026\
 |---|---|---|
 | [BlockCipherImplementations](https://github.com/KaplanHalil/BlockCipherImplementations) | Block ciphers, encryption modes, ECDH/ECDSA and cryptanalytic tooling | Python |
 | [BlockCipherTestTool](https://github.com/KaplanHalil/BlockCipherTestTool) | Automated S-box, avalanche, correlation and interpolation tests, plus solver benchmarks | Python |
-| [Milp](https://github.com/KaplanHalil/Milp) | MILP models for differential, linear and related-key cryptanalysis | Python · Gurobi |
-| [ModularAddition](https://github.com/KaplanHalil/ModularAddition) | Differential and linear analysis of modular addition (DDT/LAT) | Python · LaTeX |
+| [Milp](https://github.com/KaplanHalil/Milp) | MILP models for differential, linear and related-key cryptanalysis | Python&nbsp;·&nbsp;Gurobi |
+| [ModularAddition](https://github.com/KaplanHalil/ModularAddition) | Differential and linear analysis of modular addition (DDT/LAT) | Python&nbsp;·&nbsp;LaTeX |
 | [dif_attack_demo](https://github.com/KaplanHalil/dif_attack_demo) | Differential cryptanalysis on toy ciphers, step by step | Python |
-| [Tamarin](https://github.com/KaplanHalil/Tamarin) | Protocol analysis with the Tamarin prover: examples, notes and a formal MKA verification | Tamarin · LaTeX |
+| [Tamarin](https://github.com/KaplanHalil/Tamarin) | Protocol analysis with the Tamarin prover: examples, notes and a formal MKA verification | Tamarin&nbsp;·&nbsp;LaTeX |
 | [chirag](https://github.com/KaplanHalil/chirag) | Retrieval-augmented generation applied to cryptography research | Python |
 
 ## Omarchy & desktop
@@ -66,7 +66,7 @@ Native [Quickshell](https://quickshell.org/) widgets and local-first tools for
         <img src="https://raw.githubusercontent.com/KaplanHalil/omarchy-gazette/main/preview.png" width="260" alt="Gazette RSS reader and markets ticker in the Omarchy bar">
       </a>
     </td>
-    <td valign="top">
+    <td valign="middle">
       <strong><a href="https://github.com/KaplanHalil/omarchy-gazette">Gazette</a></strong><br>
       Local-first RSS/Atom reader in the Omarchy bar with a live markets ticker,
       custom tabs, article thumbnails and an in-panel reader.<br><br>
@@ -80,7 +80,7 @@ Native [Quickshell](https://quickshell.org/) widgets and local-first tools for
         <img src="https://raw.githubusercontent.com/KaplanHalil/omarchy-topstats/main/preview.png" width="260" alt="TopStats CPU, GPU, RAM and network meters in the Omarchy bar">
       </a>
     </td>
-    <td valign="top">
+    <td valign="middle">
       <strong><a href="https://github.com/KaplanHalil/omarchy-topstats">TopStats</a></strong><br>
       CPU, GPU, RAM and network meters in the bar, with capacity bars,
       two-minute history charts, top processes and uptime.<br><br>
@@ -94,7 +94,7 @@ Native [Quickshell](https://quickshell.org/) widgets and local-first tools for
         <img src="https://raw.githubusercontent.com/KaplanHalil/omarchy-quick-drawer/main/preview.png" width="260" alt="Quick Drawer quick-toggle drawer in the Omarchy bar">
       </a>
     </td>
-    <td valign="top">
+    <td valign="middle">
       <strong><a href="https://github.com/KaplanHalil/omarchy-quick-drawer">Quick Drawer</a></strong><br>
       Caffeine, night light, do-not-disturb, screensaver and suspend behind one
       bar mark, plus panel shortcuts and custom command tiles from a catalogue.<br><br>
