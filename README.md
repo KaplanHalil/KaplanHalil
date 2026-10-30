@@ -33,7 +33,7 @@ I study the security of symmetric primitives: cryptanalysis of block ciphers,
 MILP / SAT-based modeling of algebraic and structural attacks, S-box design and
 testing, and formal verification of security protocols with the Tamarin prover.
 Outside the lab I build local-first tools for the
-[Omarchy](https://omarchy.org/) Linux desktop — no telemetry, no accounts.
+[Omarchy](https://omarchy.org/) Linux desktop.
 
 ## Cryptography & research
 
