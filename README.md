@@ -97,8 +97,6 @@ Native [Quickshell](https://quickshell.org/) widgets and local-first tools for
   </tr>
 </table>
 
-Also: [dotfiles](https://github.com/KaplanHalil/dotfiles) — my Omarchy/Hyprland
-configuration backup.
 
 ## Writing & talks
 
