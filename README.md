@@ -55,16 +55,16 @@ Native [Quickshell](https://quickshell.org/) widgets and local-first tools for
 <table>
   <tr>
     <td width="38%" valign="top">
-      <a href="https://github.com/KaplanHalil/omarchy-gazette">
-        <img src="https://raw.githubusercontent.com/KaplanHalil/omarchy-gazette/main/preview.png" width="260" alt="Gazette RSS reader and markets ticker in the Omarchy bar">
+      <a href="https://github.com/KaplanHalil/omarchy-compact-workspaces">
+        <img src="https://raw.githubusercontent.com/KaplanHalil/omarchy-compact-workspaces/main/preview.png" width="260" alt="Compact Workspaces gap-free workspace pills in the Omarchy bar">
       </a>
     </td>
     <td valign="middle">
-      <strong><a href="https://github.com/KaplanHalil/omarchy-gazette">Gazette</a></strong><br>
-      Local-first RSS/Atom reader in the Omarchy bar with a live markets ticker,
-      custom tabs, article thumbnails and an in-panel reader.<br><br>
-      <code>io.github.kaplanhalil.gazette</code><br>
-      <sub>Rust · QML · Quickshell · MIT</sub>
+      <strong><a href="https://github.com/KaplanHalil/omarchy-compact-workspaces">Compact Workspaces</a></strong><br>
+      Workspace pills that close Hyprland's id gaps, with real application
+      icons and square theme-bordered chips.<br><br>
+      <code>io.github.kaplanhalil.compact-workspaces</code><br>
+      <sub>QML · Quickshell · MIT</sub>
     </td>
   </tr>
   <tr>
