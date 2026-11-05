@@ -54,9 +54,9 @@ Native [Quickshell](https://quickshell.org/) widgets and local-first tools for
 
 <table>
   <tr>
-    <td width="38%" valign="top">
+    <td width="34%" valign="top">
       <a href="https://github.com/KaplanHalil/omarchy-compact-workspaces">
-        <img src="https://raw.githubusercontent.com/KaplanHalil/omarchy-compact-workspaces/main/preview.png" width="260" alt="Compact Workspaces gap-free workspace pills in the Omarchy bar">
+        <img src="https://raw.githubusercontent.com/KaplanHalil/omarchy-compact-workspaces/main/preview.png" width="220" alt="Compact Workspaces gap-free workspace pills in the Omarchy bar">
       </a>
     </td>
     <td valign="middle">
@@ -68,9 +68,9 @@ Native [Quickshell](https://quickshell.org/) widgets and local-first tools for
     </td>
   </tr>
   <tr>
-    <td width="38%" valign="top">
+    <td width="34%" valign="top">
       <a href="https://github.com/KaplanHalil/omarchy-topstats">
-        <img src="https://raw.githubusercontent.com/KaplanHalil/omarchy-topstats/main/preview.png" width="260" alt="TopStats CPU, GPU, RAM and network meters in the Omarchy bar">
+        <img src="https://raw.githubusercontent.com/KaplanHalil/omarchy-topstats/main/preview.png" width="220" alt="TopStats CPU, GPU, RAM and network meters in the Omarchy bar">
       </a>
     </td>
     <td valign="middle">
@@ -82,9 +82,9 @@ Native [Quickshell](https://quickshell.org/) widgets and local-first tools for
     </td>
   </tr>
   <tr>
-    <td width="38%" valign="top">
+    <td width="34%" valign="top">
       <a href="https://github.com/KaplanHalil/omarchy-quick-drawer">
-        <img src="https://raw.githubusercontent.com/KaplanHalil/omarchy-quick-drawer/main/preview.png" width="260" alt="Quick Drawer quick-toggle drawer in the Omarchy bar">
+        <img src="https://raw.githubusercontent.com/KaplanHalil/omarchy-quick-drawer/main/preview.png" width="220" alt="Quick Drawer quick-toggle drawer in the Omarchy bar">
       </a>
     </td>
     <td valign="middle">
@@ -93,6 +93,20 @@ Native [Quickshell](https://quickshell.org/) widgets and local-first tools for
       bar mark, plus panel shortcuts and custom command tiles from a catalogue.<br><br>
       <code>io.github.kaplanhalil.quickdrawer</code><br>
       <sub>QML · Quickshell · MIT</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="34%" valign="top">
+      <a href="https://github.com/KaplanHalil/omarchy-sync-plugin">
+        <img src="https://raw.githubusercontent.com/KaplanHalil/omarchy-sync-plugin/main/preview.png" width="220" alt="Omarchy Sync panel with publish and apply groups">
+      </a>
+    </td>
+    <td valign="middle">
+      <strong><a href="https://github.com/KaplanHalil/omarchy-sync-plugin">Omarchy Sync</a></strong><br>
+      Publish and apply your Omarchy config through a private git repo, with
+      category filters, backups and one-click undo.<br><br>
+      <code>io.github.kaplanhalil.sync</code><br>
+      <sub>QML · Python · MIT</sub>
     </td>
   </tr>
 </table>
